@@ -24,16 +24,13 @@ import java.io.IOException;
 
 public class DatabaseBackup {
     public static void backup(String outputFile) throws IOException {
-        // Cấu hình thông tin cơ sở dữ liệu
         String dbName = "StudentEvaluation";
         String dbUser = "root";
-        String dbPassword = "Phu090204#my05"; // Thay 'your_password' bằng mật khẩu MySQL của bạn
+        String dbPassword = "<mật khẩu>"; // Thay 'your_password' bằng mật khẩu MySQL
 
-        // Lệnh mysqldump
         String command = String.format(
                 "mysqldump -u %s -p%s %s -r %s", dbUser, dbPassword, dbName, outputFile);
 
-        // Thực thi lệnh
         Process process = Runtime.getRuntime().exec(command);
 
         try {

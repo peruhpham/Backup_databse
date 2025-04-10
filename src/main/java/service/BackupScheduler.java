@@ -20,7 +20,7 @@ public class BackupScheduler {
             }
         };
 
-        // Lịch chạy 24 giờ/lần
+        // Lịch chạy 24 giờ/lần, có thể điều chỉnh theo chu kỳ cụ thể
         scheduler.scheduleAtFixedRate(backupTask, 0, 24, TimeUnit.HOURS);
     }
 }
