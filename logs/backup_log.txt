@@ -1,0 +1,74 @@
+Test backup completed: TestDB.sql
+Backup completed: backups/backup_1744213963123.sql
+Test backup completed: test_backup.sql
+Test backup completed: test_backup.sql
+[2025-04-10 00:43:46] Backup completed successfully: TestDB_backup.sql
+[2025-04-10 00:51:50] Error: No suitable driver found for jdbc:mysql://localhost:3306/StudentEvaluation
+[2025-04-10 00:52:55] Error: No suitable driver found for jdbc:mysql://localhost:3306/StudentEvaluation
+[2025-04-10 01:13:04] Database backup completed: backup/StudentEvaluation_Backup_2025-04-10T01-13-03.941729.sql
+[2025-04-10 01:13:08] Database backup completed: backup/StudentEvaluation_Backup_2025-04-10T01-13-08.506630300.sql
+[2025-04-10 01:15:51] Database backup completed: backup/StudentEvaluation_Backup_2025-04-10T01-15-51.600591400.sql
+[2025-04-10 01:19:40] Test backup completed: test_backup.sql
+[2025-04-10 01:20:27] Test backup completed: test_backup.sql
+[2025-04-10 01:36:00] Added student: phu
+[2025-04-10 01:46:13] Automatic backup completed at 2025-04-10_01-46-13: AutoBackup_2025-04-10_01-46-13.sql
+[2025-04-10 01:46:16] Automatic backup completed at 2025-04-10_01-46-16: AutoBackup_2025-04-10_01-46-16.sql
+[2025-04-10 01:46:19] Automatic backup completed at 2025-04-10_01-46-19: AutoBackup_2025-04-10_01-46-19.sql
+[2025-04-10 01:46:22] Automatic backup completed at 2025-04-10_01-46-22: AutoBackup_2025-04-10_01-46-22.sql
+[2025-04-10 01:46:25] Automatic backup completed at 2025-04-10_01-46-25: AutoBackup_2025-04-10_01-46-25.sql
+[2025-04-10 01:46:28] Automatic backup completed at 2025-04-10_01-46-28: AutoBackup_2025-04-10_01-46-28.sql
+[2025-04-10 01:46:31] Automatic backup completed at 2025-04-10_01-46-31: AutoBackup_2025-04-10_01-46-31.sql
+[2025-04-10 01:46:34] Automatic backup completed at 2025-04-10_01-46-34: AutoBackup_2025-04-10_01-46-34.sql
+[2025-04-10 01:46:37] Automatic backup completed at 2025-04-10_01-46-37: AutoBackup_2025-04-10_01-46-37.sql
+[2025-04-10 01:46:40] Automatic backup completed at 2025-04-10_01-46-40: AutoBackup_2025-04-10_01-46-40.sql
+[2025-04-10 01:46:43] Automatic backup completed at 2025-04-10_01-46-43: AutoBackup_2025-04-10_01-46-43.sql
+[2025-04-10 01:46:46] Automatic backup completed at 2025-04-10_01-46-46: AutoBackup_2025-04-10_01-46-46.sql
+[2025-04-10 01:46:49] Automatic backup completed at 2025-04-10_01-46-49: AutoBackup_2025-04-10_01-46-49.sql
+[2025-04-10 01:46:52] Automatic backup completed at 2025-04-10_01-46-52: AutoBackup_2025-04-10_01-46-52.sql
+[2025-04-10 01:46:55] Automatic backup completed at 2025-04-10_01-46-55: AutoBackup_2025-04-10_01-46-55.sql
+[2025-04-10 01:46:58] Automatic backup completed at 2025-04-10_01-46-58: AutoBackup_2025-04-10_01-46-58.sql
+[2025-04-10 01:47:01] Automatic backup completed at 2025-04-10_01-47-01: AutoBackup_2025-04-10_01-47-01.sql
+[2025-04-10 01:47:04] Automatic backup completed at 2025-04-10_01-47-04: AutoBackup_2025-04-10_01-47-04.sql
+[2025-04-10 01:51:52] Automatic backup completed at 2025-04-10_01-51-51: backups/AutoBackup_2025-04-10_01-51-51.sql
+[2025-04-10 01:51:56] Automatic backup completed at 2025-04-10_01-51-54: backups/AutoBackup_2025-04-10_01-51-54.sql
+[2025-04-10 01:51:59] Automatic backup completed at 2025-04-10_01-51-57: backups/AutoBackup_2025-04-10_01-51-57.sql
+[2025-04-10 01:52:02] Automatic backup completed at 2025-04-10_01-52-00: backups/AutoBackup_2025-04-10_01-52-00.sql
+[2025-04-10 01:52:04] Automatic backup completed at 2025-04-10_01-52-03: backups/AutoBackup_2025-04-10_01-52-03.sql
+[2025-04-10 01:52:06] Automatic backup completed at 2025-04-10_01-52-06: backups/AutoBackup_2025-04-10_01-52-06.sql
+[2025-04-10 01:52:09] Automatic backup completed at 2025-04-10_01-52-09: backups/AutoBackup_2025-04-10_01-52-09.sql
+[2025-04-10 01:52:12] Automatic backup completed at 2025-04-10_01-52-12: backups/AutoBackup_2025-04-10_01-52-12.sql
+[2025-04-10 01:52:15] Automatic backup completed at 2025-04-10_01-52-15: backups/AutoBackup_2025-04-10_01-52-15.sql
+[2025-04-10 01:52:18] Automatic backup completed at 2025-04-10_01-52-18: backups/AutoBackup_2025-04-10_01-52-18.sql
+[2025-04-10 01:52:21] Automatic backup completed at 2025-04-10_01-52-21: backups/AutoBackup_2025-04-10_01-52-21.sql
+[2025-04-10 01:52:25] Automatic backup completed at 2025-04-10_01-52-24: backups/AutoBackup_2025-04-10_01-52-24.sql
+[2025-04-10 01:52:27] Automatic backup completed at 2025-04-10_01-52-27: backups/AutoBackup_2025-04-10_01-52-27.sql
+[2025-04-10 01:52:30] Automatic backup completed at 2025-04-10_01-52-30: backups/AutoBackup_2025-04-10_01-52-30.sql
+[2025-04-10 01:52:36] Automatic backup completed at 2025-04-10_01-52-33: backups/AutoBackup_2025-04-10_01-52-33.sql
+[2025-04-10 01:52:38] Automatic backup completed at 2025-04-10_01-52-36: backups/AutoBackup_2025-04-10_01-52-36.sql
+[2025-04-10 01:52:39] Automatic backup completed at 2025-04-10_01-52-39: backups/AutoBackup_2025-04-10_01-52-39.sql
+[2025-04-10 01:52:42] Automatic backup completed at 2025-04-10_01-52-42: backups/AutoBackup_2025-04-10_01-52-42.sql
+[2025-04-10 01:52:45] Automatic backup completed at 2025-04-10_01-52-45: backups/AutoBackup_2025-04-10_01-52-45.sql
+[2025-04-10 01:52:48] Automatic backup completed at 2025-04-10_01-52-48: backups/AutoBackup_2025-04-10_01-52-48.sql
+[2025-04-10 01:52:51] Automatic backup completed at 2025-04-10_01-52-51: backups/AutoBackup_2025-04-10_01-52-51.sql
+[2025-04-10 01:52:54] Automatic backup completed at 2025-04-10_01-52-54: backups/AutoBackup_2025-04-10_01-52-54.sql
+[2025-04-10 01:52:57] Automatic backup completed at 2025-04-10_01-52-57: backups/AutoBackup_2025-04-10_01-52-57.sql
+[2025-04-10 01:53:00] Automatic backup completed at 2025-04-10_01-53-00: backups/AutoBackup_2025-04-10_01-53-00.sql
+[2025-04-10 01:53:03] Automatic backup completed at 2025-04-10_01-53-03: backups/AutoBackup_2025-04-10_01-53-03.sql
+[2025-04-10 01:53:06] Automatic backup completed at 2025-04-10_01-53-06: backups/AutoBackup_2025-04-10_01-53-06.sql
+[2025-04-10 01:53:09] Automatic backup completed at 2025-04-10_01-53-09: backups/AutoBackup_2025-04-10_01-53-09.sql
+[2025-04-10 01:54:10] Automatic backup completed at 2025-04-10_01-54-10: backups/AutoBackup_2025-04-10_01-54-10.sql
+[2025-04-10 01:54:13] Automatic backup completed at 2025-04-10_01-54-13: backups/AutoBackup_2025-04-10_01-54-13.sql
+[2025-04-10 01:54:16] Automatic backup completed at 2025-04-10_01-54-16: backups/AutoBackup_2025-04-10_01-54-16.sql
+[2025-04-10 01:54:19] Automatic backup completed at 2025-04-10_01-54-19: backups/AutoBackup_2025-04-10_01-54-19.sql
+[2025-04-10 01:54:22] Automatic backup completed at 2025-04-10_01-54-22: backups/AutoBackup_2025-04-10_01-54-22.sql
+[2025-04-10 01:54:25] Automatic backup completed at 2025-04-10_01-54-25: backups/AutoBackup_2025-04-10_01-54-25.sql
+[2025-04-10 01:54:28] Automatic backup completed at 2025-04-10_01-54-28: backups/AutoBackup_2025-04-10_01-54-28.sql
+[2025-04-10 01:56:11] Automatic backup completed at 2025-04-10_01-56-10: AutoBackup_2025-04-10_01-56-10.sql
+[2025-04-10 01:56:32] Automatic backup completed at 2025-04-10_01-56-32: AutoBackup_2025-04-10_01-56-32.sql
+[2025-04-10 01:56:35] Automatic backup completed at 2025-04-10_01-56-35: AutoBackup_2025-04-10_01-56-35.sql
+[2025-04-10 01:56:38] Automatic backup completed at 2025-04-10_01-56-38: AutoBackup_2025-04-10_01-56-38.sql
+[2025-04-10 01:56:41] Automatic backup completed at 2025-04-10_01-56-41: AutoBackup_2025-04-10_01-56-41.sql
+[2025-04-10 01:56:44] Automatic backup completed at 2025-04-10_01-56-44: AutoBackup_2025-04-10_01-56-44.sql
+[2025-04-10 01:56:47] Automatic backup completed at 2025-04-10_01-56-47: AutoBackup_2025-04-10_01-56-47.sql
+[2025-04-10 01:56:50] Automatic backup completed at 2025-04-10_01-56-50: AutoBackup_2025-04-10_01-56-50.sql
+[2025-04-10 01:56:53] Automatic backup completed at 2025-04-10_01-56-53: AutoBackup_2025-04-10_01-56-53.sql
